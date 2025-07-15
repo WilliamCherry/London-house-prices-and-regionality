@@ -1,0 +1,992 @@
+﻿Year,borough,avg_income
+1995,City of London,22518
+1996,City of London,23328
+1997,City of London,24966
+1998,City of London,26816
+1999,City of London,27898
+2000,City of London,65000
+2001,City of London,38300
+2002,City of London,37000
+2003,City of London,39200
+2004,City of London,44400
+2005,City of London,49300
+2006,City of London,49000
+2007,City of London,58500
+2008,City of London,61900
+2009,City of London,61300
+2010,City of London,51600
+2011,City of London,58300
+2012,City of London,65300
+2013,City of London,61100
+2014,City of London,60000
+2015,City of London,57300
+2016,City of London,60000
+2017,City of London,55200
+2018,City of London,54200
+2019,City of London,56700
+2020,City of London,62200
+2021,City of London,63000
+2022,City of London,61911
+2023,City of London,62015
+2024,City of London,64008
+1995,Barking and Dagenham,22518
+1996,Barking and Dagenham,23328
+1997,Barking and Dagenham,24966
+1998,Barking and Dagenham,26816
+1999,Barking and Dagenham,27898
+2000,Barking and Dagenham,15600
+2001,Barking and Dagenham,16200
+2002,Barking and Dagenham,17000
+2003,Barking and Dagenham,17400
+2004,Barking and Dagenham,16600
+2005,Barking and Dagenham,17900
+2006,Barking and Dagenham,17600
+2007,Barking and Dagenham,18600
+2008,Barking and Dagenham,19400
+2009,Barking and Dagenham,19400
+2010,Barking and Dagenham,19600
+2011,Barking and Dagenham,20100
+2012,Barking and Dagenham,21000
+2013,Barking and Dagenham,21800
+2014,Barking and Dagenham,22100
+2015,Barking and Dagenham,23300
+2016,Barking and Dagenham,23900
+2017,Barking and Dagenham,25200
+2018,Barking and Dagenham,25700
+2019,Barking and Dagenham,26800
+2020,Barking and Dagenham,28000
+2021,Barking and Dagenham,28600
+2022,Barking and Dagenham,61911
+2023,Barking and Dagenham,62015
+2024,Barking and Dagenham,64008
+1995,Barnet,22518
+1996,Barnet,23328
+1997,Barnet,24966
+1998,Barnet,26816
+1999,Barnet,27898
+2000,Barnet,19400
+2001,Barnet,18700
+2002,Barnet,19700
+2003,Barnet,20000
+2004,Barnet,19900
+2005,Barnet,21200
+2006,Barnet,20400
+2007,Barnet,22000
+2008,Barnet,24300
+2009,Barnet,24100
+2010,Barnet,24200
+2011,Barnet,25800
+2012,Barnet,26800
+2013,Barnet,27100
+2014,Barnet,27700
+2015,Barnet,28800
+2016,Barnet,28700
+2017,Barnet,29900
+2018,Barnet,30700
+2019,Barnet,32200
+2020,Barnet,33500
+2021,Barnet,34800
+2022,Barnet,34021
+2023,Barnet,38457
+2024,Barnet,35959
+1995,Bexley,22518
+1996,Bexley,23328
+1997,Bexley,24966
+1998,Bexley,26816
+1999,Bexley,27898
+2000,Bexley,17300
+2001,Bexley,18300
+2002,Bexley,17800
+2003,Bexley,17700
+2004,Bexley,17700
+2005,Bexley,19400
+2006,Bexley,19600
+2007,Bexley,19800
+2008,Bexley,22100
+2009,Bexley,22600
+2010,Bexley,22300
+2011,Bexley,23100
+2012,Bexley,24400
+2013,Bexley,24400
+2014,Bexley,24500
+2015,Bexley,26100
+2016,Bexley,26900
+2017,Bexley,26900
+2018,Bexley,28000
+2019,Bexley,28800
+2020,Bexley,29300
+2021,Bexley,29194
+2022,Bexley,34976
+2023,Bexley,35728
+2024,Bexley,37948
+1995,Brent,22518
+1996,Brent,23328
+1997,Brent,24966
+1998,Brent,26816
+1999,Brent,27898
+2000,Brent,16800
+2001,Brent,16500
+2002,Brent,16400
+2003,Brent,16800
+2004,Brent,16500
+2005,Brent,17600
+2006,Brent,18200
+2007,Brent,18300
+2008,Brent,19600
+2009,Brent,19700
+2010,Brent,20200
+2011,Brent,20600
+2012,Brent,21300
+2013,Brent,22700
+2014,Brent,23200
+2015,Brent,24100
+2016,Brent,24700
+2017,Brent,25600
+2018,Brent,26200
+2019,Brent,27200
+2020,Brent,30000
+2021,Brent,33633
+2022,Brent,42766
+2023,Brent,36160
+2024,Brent,37822
+1995,Bromley,22518
+1996,Bromley,23328
+1997,Bromley,24966
+1998,Bromley,26816
+1999,Bromley,27898
+2000,Bromley,19500
+2001,Bromley,19100
+2002,Bromley,20100
+2003,Bromley,21400
+2004,Bromley,20900
+2005,Bromley,22400
+2006,Bromley,23000
+2007,Bromley,23200
+2008,Bromley,24900
+2009,Bromley,25800
+2010,Bromley,25100
+2011,Bromley,26900
+2012,Bromley,27200
+2013,Bromley,28100
+2014,Bromley,29800
+2015,Bromley,30400
+2016,Bromley,32000
+2017,Bromley,32800
+2018,Bromley,33700
+2019,Bromley,33800
+2020,Bromley,35800
+2021,Bromley,34432
+2022,Bromley,36640
+2023,Bromley,40138
+2024,Bromley,41575
+1995,Camden,22518
+1996,Camden,23328
+1997,Camden,24966
+1998,Camden,26816
+1999,Camden,27898
+2000,Camden,19700
+2001,Camden,19800
+2002,Camden,21700
+2003,Camden,21300
+2004,Camden,23200
+2005,Camden,24200
+2006,Camden,25900
+2007,Camden,26900
+2008,Camden,28400
+2009,Camden,29400
+2010,Camden,30400
+2011,Camden,31600
+2012,Camden,32000
+2013,Camden,33100
+2014,Camden,34400
+2015,Camden,35500
+2016,Camden,37300
+2017,Camden,35600
+2018,Camden,38200
+2019,Camden,38900
+2020,Camden,38900
+2021,Camden,41262
+2022,Camden,44583
+2023,Camden,45326
+2024,Camden,47882
+1995,Croydon,22518
+1996,Croydon,23328
+1997,Croydon,24966
+1998,Croydon,26816
+1999,Croydon,27898
+2000,Croydon,17300
+2001,Croydon,18300
+2002,Croydon,18000
+2003,Croydon,19000
+2004,Croydon,18600
+2005,Croydon,19600
+2006,Croydon,20700
+2007,Croydon,20900
+2008,Croydon,23100
+2009,Croydon,22000
+2010,Croydon,22700
+2011,Croydon,23900
+2012,Croydon,24300
+2013,Croydon,25100
+2014,Croydon,26300
+2015,Croydon,25600
+2016,Croydon,27500
+2017,Croydon,27800
+2018,Croydon,29400
+2019,Croydon,29100
+2020,Croydon,30400
+2021,Croydon,34911
+2022,Croydon,38726
+2023,Croydon,38696
+2024,Croydon,43337
+1995,Ealing,22518
+1996,Ealing,23328
+1997,Ealing,24966
+1998,Ealing,26816
+1999,Ealing,27898
+2000,Ealing,17000
+2001,Ealing,17500
+2002,Ealing,18900
+2003,Ealing,19400
+2004,Ealing,19100
+2005,Ealing,19000
+2006,Ealing,19900
+2007,Ealing,20200
+2008,Ealing,21800
+2009,Ealing,20800
+2010,Ealing,21300
+2011,Ealing,22700
+2012,Ealing,23200
+2013,Ealing,24600
+2014,Ealing,24900
+2015,Ealing,26100
+2016,Ealing,26700
+2017,Ealing,26400
+2018,Ealing,28200
+2019,Ealing,29500
+2020,Ealing,30900
+2021,Ealing,32213
+2022,Ealing,34810
+2023,Ealing,37856
+2024,Ealing,40302
+1995,Enfield,22518
+1996,Enfield,23328
+1997,Enfield,24966
+1998,Enfield,26816
+1999,Enfield,27898
+2000,Enfield,15900
+2001,Enfield,17500
+2002,Enfield,18100
+2003,Enfield,18200
+2004,Enfield,17000
+2005,Enfield,18900
+2006,Enfield,19500
+2007,Enfield,19900
+2008,Enfield,22100
+2009,Enfield,20900
+2010,Enfield,22300
+2011,Enfield,22700
+2012,Enfield,23900
+2013,Enfield,25300
+2014,Enfield,25100
+2015,Enfield,25400
+2016,Enfield,26300
+2017,Enfield,27300
+2018,Enfield,28300
+2019,Enfield,29500
+2020,Enfield,29900
+2021,Enfield,30808
+2022,Enfield,36278
+2023,Enfield,35885
+2024,Enfield,39025
+1995,Greenwich,22518
+1996,Greenwich,23328
+1997,Greenwich,24966
+1998,Greenwich,26816
+1999,Greenwich,27898
+2000,Greenwich,16000
+2001,Greenwich,18600
+2002,Greenwich,17000
+2003,Greenwich,17800
+2004,Greenwich,17100
+2005,Greenwich,18200
+2006,Greenwich,19200
+2007,Greenwich,20500
+2008,Greenwich,21400
+2009,Greenwich,21300
+2010,Greenwich,21800
+2011,Greenwich,22600
+2012,Greenwich,23500
+2013,Greenwich,24600
+2014,Greenwich,25600
+2015,Greenwich,26000
+2016,Greenwich,27600
+2017,Greenwich,27400
+2018,Greenwich,30100
+2019,Greenwich,30600
+2020,Greenwich,31800
+2021,Greenwich,34429
+2022,Greenwich,33719
+2023,Greenwich,37420
+2024,Greenwich,38279
+1995,Hackney,22518
+1996,Hackney,23328
+1997,Hackney,24966
+1998,Hackney,26816
+1999,Hackney,27898
+2000,Hackney,15800
+2001,Hackney,17700
+2002,Hackney,17300
+2003,Hackney,17000
+2004,Hackney,18000
+2005,Hackney,19300
+2006,Hackney,18400
+2007,Hackney,20900
+2008,Hackney,22200
+2009,Hackney,22300
+2010,Hackney,23300
+2011,Hackney,24300
+2012,Hackney,26000
+2013,Hackney,26000
+2014,Hackney,27800
+2015,Hackney,28000
+2016,Hackney,29400
+2017,Hackney,29600
+2018,Hackney,32400
+2019,Hackney,32800
+2020,Hackney,34300
+2021,Hackney,34300
+2022,Hackney,39181
+2023,Hackney,43182
+2024,Hackney,45094
+1995,Hammersmith and Fulham,22518
+1996,Hammersmith and Fulham,23328
+1997,Hammersmith and Fulham,24966
+1998,Hammersmith and Fulham,26816
+1999,Hammersmith and Fulham,27898
+2000,Hammersmith and Fulham,19300
+2001,Hammersmith and Fulham,21000
+2002,Hammersmith and Fulham,20800
+2003,Hammersmith and Fulham,19600
+2004,Hammersmith and Fulham,20800
+2005,Hammersmith and Fulham,23000
+2006,Hammersmith and Fulham,22800
+2007,Hammersmith and Fulham,23600
+2008,Hammersmith and Fulham,26700
+2009,Hammersmith and Fulham,27100
+2010,Hammersmith and Fulham,27600
+2011,Hammersmith and Fulham,27600
+2012,Hammersmith and Fulham,30100
+2013,Hammersmith and Fulham,30100
+2014,Hammersmith and Fulham,32000
+2015,Hammersmith and Fulham,32300
+2016,Hammersmith and Fulham,33200
+2017,Hammersmith and Fulham,34100
+2018,Hammersmith and Fulham,35800
+2019,Hammersmith and Fulham,36200
+2020,Hammersmith and Fulham,37000
+2021,Hammersmith and Fulham,39419
+2022,Hammersmith and Fulham,40739
+2023,Hammersmith and Fulham,44642
+2024,Hammersmith and Fulham,46247
+1995,Haringey,22518
+1996,Haringey,23328
+1997,Haringey,24966
+1998,Haringey,26816
+1999,Haringey,27898
+2000,Haringey,16600
+2001,Haringey,19100
+2002,Haringey,17100
+2003,Haringey,18800
+2004,Haringey,18300
+2005,Haringey,18800
+2006,Haringey,19000
+2007,Haringey,19800
+2008,Haringey,21800
+2009,Haringey,21500
+2010,Haringey,22200
+2011,Haringey,23300
+2012,Haringey,24400
+2013,Haringey,25800
+2014,Haringey,25600
+2015,Haringey,25100
+2016,Haringey,27100
+2017,Haringey,27400
+2018,Haringey,28300
+2019,Haringey,30000
+2020,Haringey,31300
+2021,Haringey,32485
+2022,Haringey,32485
+2023,Haringey,35654
+2024,Haringey,39453
+1995,Harrow,22518
+1996,Harrow,23328
+1997,Harrow,24966
+1998,Harrow,26816
+1999,Harrow,27898
+2000,Harrow,19300
+2001,Harrow,19300
+2002,Harrow,19400
+2003,Harrow,19600
+2004,Harrow,19600
+2005,Harrow,20700
+2006,Harrow,21400
+2007,Harrow,22100
+2008,Harrow,22800
+2009,Harrow,22300
+2010,Harrow,23000
+2011,Harrow,24000
+2012,Harrow,25200
+2013,Harrow,26100
+2014,Harrow,26300
+2015,Harrow,27300
+2016,Harrow,27600
+2017,Harrow,27600
+2018,Harrow,29500
+2019,Harrow,30200
+2020,Harrow,32300
+2021,Harrow,33811
+2022,Harrow,33466
+2023,Harrow,33466
+2024,Harrow,38083
+1995,Havering,22518
+1996,Havering,23328
+1997,Havering,24966
+1998,Havering,26816
+1999,Havering,27898
+2000,Havering,17000
+2001,Havering,17400
+2002,Havering,18300
+2003,Havering,18100
+2004,Havering,18600
+2005,Havering,20200
+2006,Havering,20400
+2007,Havering,20800
+2008,Havering,22000
+2009,Havering,22500
+2010,Havering,22700
+2011,Havering,23500
+2012,Havering,24700
+2013,Havering,24900
+2014,Havering,26000
+2015,Havering,26100
+2016,Havering,27900
+2017,Havering,29700
+2018,Havering,29800
+2019,Havering,29000
+2020,Havering,29800
+2021,Havering,31985
+2022,Havering,33366
+2023,Havering,40653
+2024,Havering,42795
+1995,Hillingdon,22518
+1996,Hillingdon,23328
+1997,Hillingdon,24966
+1998,Hillingdon,26816
+1999,Hillingdon,27898
+2000,Hillingdon,17100
+2001,Hillingdon,17600
+2002,Hillingdon,18800
+2003,Hillingdon,18900
+2004,Hillingdon,20400
+2005,Hillingdon,20200
+2006,Hillingdon,21200
+2007,Hillingdon,21800
+2008,Hillingdon,23000
+2009,Hillingdon,21900
+2010,Hillingdon,23500
+2011,Hillingdon,23200
+2012,Hillingdon,23600
+2013,Hillingdon,25300
+2014,Hillingdon,25900
+2015,Hillingdon,26200
+2016,Hillingdon,27100
+2017,Hillingdon,28100
+2018,Hillingdon,28100
+2019,Hillingdon,28400
+2020,Hillingdon,30600
+2021,Hillingdon,34530
+2022,Hillingdon,34259
+2023,Hillingdon,36142
+2024,Hillingdon,40120
+1995,Hounslow,22518
+1996,Hounslow,23328
+1997,Hounslow,24966
+1998,Hounslow,26816
+1999,Hounslow,27898
+2000,Hounslow,16600
+2001,Hounslow,16500
+2002,Hounslow,18600
+2003,Hounslow,18900
+2004,Hounslow,18400
+2005,Hounslow,18800
+2006,Hounslow,19100
+2007,Hounslow,20400
+2008,Hounslow,22000
+2009,Hounslow,21600
+2010,Hounslow,21800
+2011,Hounslow,22400
+2012,Hounslow,23700
+2013,Hounslow,24700
+2014,Hounslow,25000
+2015,Hounslow,26100
+2016,Hounslow,26400
+2017,Hounslow,27800
+2018,Hounslow,27500
+2019,Hounslow,28500
+2020,Hounslow,29300
+2021,Hounslow,37940
+2022,Hounslow,37940
+2023,Hounslow,39151
+2024,Hounslow,41653
+1995,Islington,22518
+1996,Islington,23328
+1997,Islington,24966
+1998,Islington,26816
+1999,Islington,27898
+2000,Islington,17600
+2001,Islington,18700
+2002,Islington,19100
+2003,Islington,21500
+2004,Islington,20800
+2005,Islington,22800
+2006,Islington,23100
+2007,Islington,24400
+2008,Islington,27100
+2009,Islington,26100
+2010,Islington,28100
+2011,Islington,28500
+2012,Islington,28700
+2013,Islington,31000
+2014,Islington,31100
+2015,Islington,32900
+2016,Islington,33400
+2017,Islington,35100
+2018,Islington,36400
+2019,Islington,35600
+2020,Islington,38200
+2021,Islington,41946
+2022,Islington,45290
+2023,Islington,48006
+2024,Islington,50532
+1995,Kensington and Chelsea,22518
+1996,Kensington and Chelsea,23328
+1997,Kensington and Chelsea,24966
+1998,Kensington and Chelsea,26816
+1999,Kensington and Chelsea,27898
+2000,Kensington and Chelsea,25200
+2001,Kensington and Chelsea,25900
+2002,Kensington and Chelsea,25400
+2003,Kensington and Chelsea,24000
+2004,Kensington and Chelsea,22400
+2005,Kensington and Chelsea,27300
+2006,Kensington and Chelsea,27500
+2007,Kensington and Chelsea,31900
+2008,Kensington and Chelsea,34100
+2009,Kensington and Chelsea,31700
+2010,Kensington and Chelsea,37200
+2011,Kensington and Chelsea,37800
+2012,Kensington and Chelsea,37600
+2013,Kensington and Chelsea,38700
+2014,Kensington and Chelsea,37500
+2015,Kensington and Chelsea,39500
+2016,Kensington and Chelsea,40400
+2017,Kensington and Chelsea,39300
+2018,Kensington and Chelsea,42100
+2019,Kensington and Chelsea,43300
+2020,Kensington and Chelsea,43900
+2021,Kensington and Chelsea,47700
+2022,Kensington and Chelsea,33779
+2023,Kensington and Chelsea,36500
+2024,Kensington and Chelsea,38939
+1995,Kingston upon Thames,22518
+1996,Kingston upon Thames,23328
+1997,Kingston upon Thames,24966
+1998,Kingston upon Thames,26816
+1999,Kingston upon Thames,27898
+2000,Kingston upon Thames,20983
+2001,Kingston upon Thames,21427
+2002,Kingston upon Thames,22575
+2003,Kingston upon Thames,23813
+2004,Kingston upon Thames,23708
+2005,Kingston upon Thames,24937
+2006,Kingston upon Thames,25640
+2007,Kingston upon Thames,27274
+2008,Kingston upon Thames,26583
+2009,Kingston upon Thames,27497
+2010,Kingston upon Thames,28240
+2011,Kingston upon Thames,28997
+2012,Kingston upon Thames,29067
+2013,Kingston upon Thames,29450
+2014,Kingston upon Thames,30768
+2015,Kingston upon Thames,28635
+2016,Kingston upon Thames,30729
+2017,Kingston upon Thames,31308
+2018,Kingston upon Thames,31308
+2019,Kingston upon Thames,32261
+2020,Kingston upon Thames,35268
+2021,Kingston upon Thames,35713
+2022,Kingston upon Thames,36203
+2023,Kingston upon Thames,37469
+2024,Kingston upon Thames,40719
+1995,Lambeth,22518
+1996,Lambeth,23328
+1997,Lambeth,24966
+1998,Lambeth,26816
+1999,Lambeth,27898
+1999,Lambeth,15400
+2000,Lambeth,15300
+2001,Lambeth,18200
+2002,Lambeth,18800
+2003,Lambeth,20000
+2004,Lambeth,19900
+2005,Lambeth,20700
+2006,Lambeth,21600
+2007,Lambeth,22200
+2008,Lambeth,24000
+2009,Lambeth,24000
+2010,Lambeth,24600
+2011,Lambeth,26000
+2012,Lambeth,26800
+2013,Lambeth,27300
+2014,Lambeth,28400
+2015,Lambeth,29200
+2016,Lambeth,29900
+2017,Lambeth,31900
+2018,Lambeth,31900
+2019,Lambeth,32800
+2020,Lambeth,34500
+2021,Lambeth,35700
+2022,Lambeth,38175
+2023,Lambeth,40843
+2024,Lambeth,45650
+1995,Lewisham,22518
+1996,Lewisham,23328
+1997,Lewisham,24966
+1998,Lewisham,26816
+1999,Lewisham,27898
+2000,Lewisham,15300
+2001,Lewisham,18000
+2002,Lewisham,17300
+2003,Lewisham,17000
+2004,Lewisham,18100
+2005,Lewisham,20000
+2006,Lewisham,20900
+2007,Lewisham,21000
+2008,Lewisham,22300
+2009,Lewisham,23200
+2010,Lewisham,22900
+2011,Lewisham,23000
+2012,Lewisham,24000
+2013,Lewisham,24900
+2014,Lewisham,25800
+2015,Lewisham,26700
+2016,Lewisham,27300
+2017,Lewisham,27900
+2018,Lewisham,30100
+2019,Lewisham,30900
+2020,Lewisham,32000
+2021,Lewisham,33457
+2022,Lewisham,35980
+2023,Lewisham,38918
+2024,Lewisham,38918
+1995,Merton,22518
+1996,Merton,23328
+1997,Merton,24966
+1998,Merton,26816
+1999,Merton,27898
+2000,Merton,18400
+2001,Merton,18500
+2002,Merton,21200
+2003,Merton,19700
+2004,Merton,19400
+2005,Merton,20500
+2006,Merton,21600
+2007,Merton,22300
+2008,Merton,24100
+2009,Merton,24700
+2010,Merton,25200
+2011,Merton,25800
+2012,Merton,27800
+2013,Merton,27600
+2014,Merton,28500
+2015,Merton,29500
+2016,Merton,30200
+2017,Merton,30300
+2018,Merton,30300
+2019,Merton,32600
+2020,Merton,33900
+2021,Merton,34210
+2022,Merton,33980
+2023,Merton,37158
+2024,Merton,38736
+1995,Newham,22518
+1996,Newham,23328
+1997,Newham,24966
+1998,Newham,26816
+1999,Newham,27898
+2000,Newham,14700
+2001,Newham,15300
+2002,Newham,15000
+2003,Newham,14500
+2004,Newham,15100
+2005,Newham,15200
+2006,Newham,15800
+2007,Newham,16500
+2008,Newham,17600
+2009,Newham,17400
+2010,Newham,17600
+2011,Newham,18500
+2012,Newham,20100
+2013,Newham,20200
+2014,Newham,22100
+2015,Newham,22500
+2016,Newham,24100
+2017,Newham,24300
+2018,Newham,24600
+2019,Newham,26600
+2020,Newham,28300
+2021,Newham,36668
+2022,Newham,39781
+2023,Newham,39077
+2024,Newham,47295
+1995,Redbridge,22518
+1996,Redbridge,23328
+1997,Redbridge,24966
+1998,Redbridge,26816
+1999,Redbridge,27898
+2000,Redbridge,16900
+2001,Redbridge,17200
+2002,Redbridge,18700
+2003,Redbridge,19000
+2004,Redbridge,17800
+2005,Redbridge,20000
+2006,Redbridge,20700
+2007,Redbridge,21600
+2008,Redbridge,22300
+2009,Redbridge,22200
+2010,Redbridge,22900
+2011,Redbridge,23800
+2012,Redbridge,25100
+2013,Redbridge,25700
+2014,Redbridge,26400
+2015,Redbridge,27400
+2016,Redbridge,28000
+2017,Redbridge,27300
+2018,Redbridge,28900
+2019,Redbridge,30400
+2020,Redbridge,31200
+2021,Redbridge,31034
+2022,Redbridge,34565
+2023,Redbridge,34426
+2024,Redbridge,37841
+1995,Richmond upon Thames,22518
+1996,Richmond upon Thames,23328
+1997,Richmond upon Thames,24966
+1998,Richmond upon Thames,26816
+1999,Richmond upon Thames,27898
+2000,Richmond upon Thames,21100
+2001,Richmond upon Thames,23400
+2002,Richmond upon Thames,23100
+2003,Richmond upon Thames,25600
+2004,Richmond upon Thames,24500
+2005,Richmond upon Thames,25800
+2006,Richmond upon Thames,27300
+2007,Richmond upon Thames,29100
+2008,Richmond upon Thames,30800
+2009,Richmond upon Thames,30600
+2010,Richmond upon Thames,31500
+2011,Richmond upon Thames,33400
+2012,Richmond upon Thames,33700
+2013,Richmond upon Thames,35800
+2014,Richmond upon Thames,35500
+2015,Richmond upon Thames,36600
+2016,Richmond upon Thames,36100
+2017,Richmond upon Thames,37600
+2018,Richmond upon Thames,38900
+2019,Richmond upon Thames,39500
+2020,Richmond upon Thames,44000
+2021,Richmond upon Thames,35651
+2022,Richmond upon Thames,36888
+2023,Richmond upon Thames,39523
+2024,Richmond upon Thames,41536
+1995,Southwark,22518
+1996,Southwark,23328
+1997,Southwark,24966
+1998,Southwark,26816
+1999,Southwark,27898
+2000,Southwark,15400
+2001,Southwark,16900
+2002,Southwark,17900
+2003,Southwark,18200
+2004,Southwark,17800
+2005,Southwark,20000
+2006,Southwark,20400
+2007,Southwark,21900
+2008,Southwark,23300
+2009,Southwark,23800
+2010,Southwark,24300
+2011,Southwark,25000
+2012,Southwark,26200
+2013,Southwark,27700
+2014,Southwark,27100
+2015,Southwark,29400
+2016,Southwark,29400
+2017,Southwark,31400
+2018,Southwark,33500
+2019,Southwark,33900
+2020,Southwark,34400
+2021,Southwark,41234
+2022,Southwark,43951
+2023,Southwark,43321
+2024,Southwark,48221
+1995,Sutton,22518
+1996,Sutton,23328
+1997,Sutton,24966
+1998,Sutton,26816
+1999,Sutton,27898
+2000,Sutton,17000
+2001,Sutton,17600
+2002,Sutton,17800
+2003,Sutton,18400
+2004,Sutton,18900
+2005,Sutton,20200
+2006,Sutton,21400
+2007,Sutton,22500
+2008,Sutton,23200
+2009,Sutton,22300
+2010,Sutton,25300
+2011,Sutton,25000
+2012,Sutton,25100
+2013,Sutton,25900
+2014,Sutton,27400
+2015,Sutton,27300
+2016,Sutton,28200
+2017,Sutton,29700
+2018,Sutton,30200
+2019,Sutton,31400
+2020,Sutton,33300
+2021,Sutton,30763
+2022,Sutton,35728
+2023,Sutton,35588
+2024,Sutton,39364
+1995,Tower Hamlets,22518
+1996,Tower Hamlets,23328
+1997,Tower Hamlets,24966
+1998,Tower Hamlets,26816
+1999,Tower Hamlets,27898
+2000,Tower Hamlets,16500
+2001,Tower Hamlets,19100
+2002,Tower Hamlets,19300
+2003,Tower Hamlets,18300
+2004,Tower Hamlets,19200
+2005,Tower Hamlets,19800
+2006,Tower Hamlets,19400
+2007,Tower Hamlets,21200
+2008,Tower Hamlets,24500
+2009,Tower Hamlets,24000
+2010,Tower Hamlets,24700
+2011,Tower Hamlets,25800
+2012,Tower Hamlets,27000
+2013,Tower Hamlets,26600
+2014,Tower Hamlets,28900
+2015,Tower Hamlets,30500
+2016,Tower Hamlets,30200
+2017,Tower Hamlets,31100
+2018,Tower Hamlets,32700
+2019,Tower Hamlets,34100
+2020,Tower Hamlets,35500
+2021,Tower Hamlets,47945
+2022,Tower Hamlets,52498
+2023,Tower Hamlets,60790
+2024,Tower Hamlets,64995
+1995,Waltham Forest,22518
+1996,Waltham Forest,23328
+1997,Waltham Forest,24966
+1998,Waltham Forest,26816
+1999,Waltham Forest,27898
+2000,Waltham Forest,15100
+2001,Waltham Forest,16600
+2002,Waltham Forest,17200
+2003,Waltham Forest,16800
+2004,Waltham Forest,16600
+2005,Waltham Forest,17700
+2006,Waltham Forest,17900
+2007,Waltham Forest,18200
+2008,Waltham Forest,20600
+2009,Waltham Forest,19700
+2010,Waltham Forest,20300
+2011,Waltham Forest,21400
+2012,Waltham Forest,21900
+2013,Waltham Forest,22700
+2014,Waltham Forest,23900
+2015,Waltham Forest,24500
+2016,Waltham Forest,25500
+2017,Waltham Forest,26800
+2018,Waltham Forest,27700
+2019,Waltham Forest,28900
+2020,Waltham Forest,30900
+2021,Waltham Forest,31997
+2022,Waltham Forest,30914
+2023,Waltham Forest,35747
+2024,Waltham Forest,39589
+1995,Wandsworth,22518
+1996,Wandsworth,23328
+1997,Wandsworth,24966
+1998,Wandsworth,26816
+1999,Wandsworth,27898
+2000,Wandsworth,21000
+2001,Wandsworth,21700
+2002,Wandsworth,22000
+2003,Wandsworth,22600
+2004,Wandsworth,22000
+2005,Wandsworth,24500
+2006,Wandsworth,25300
+2007,Wandsworth,26100
+2008,Wandsworth,29200
+2009,Wandsworth,29000
+2010,Wandsworth,29400
+2011,Wandsworth,31000
+2012,Wandsworth,31900
+2013,Wandsworth,32900
+2014,Wandsworth,34200
+2015,Wandsworth,35000
+2016,Wandsworth,34500
+2017,Wandsworth,37100
+2018,Wandsworth,38900
+2019,Wandsworth,39000
+2020,Wandsworth,40200
+2021,Wandsworth,33499
+2022,Wandsworth,36434
+2023,Wandsworth,39723
+2024,Wandsworth,39999
+1995,Westminster,22518
+1996,Westminster,23328
+1997,Westminster,24966
+1998,Westminster,26816
+1999,Westminster,27898
+2000,Westminster,23000
+2001,Westminster,21900
+2002,Westminster,22800
+2003,Westminster,23500
+2004,Westminster,23100
+2005,Westminster,27100
+2006,Westminster,27000
+2007,Westminster,29200
+2008,Westminster,31900
+2009,Westminster,31400
+2010,Westminster,32400
+2011,Westminster,35200
+2012,Westminster,36400
+2013,Westminster,35100
+2014,Westminster,37800
+2015,Westminster,36100
+2016,Westminster,39700
+2017,Westminster,39200
+2018,Westminster,39900
+2019,Westminster,42100
+2020,Westminster,41200
+2021,Westminster,45000
+2022,Westminster,45253
+2023,Westminster,49985
+2024,Westminster,51815

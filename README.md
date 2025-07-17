@@ -1,6 +1,6 @@
-# London-house-prices-and-regionality
+## London-house-prices-and-regionality
 
-- Project Goals
+Project Goals
 
 Build a regression model in order to predict house prices in London.
 
